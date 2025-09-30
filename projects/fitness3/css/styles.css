@@ -1,0 +1,90 @@
+body{
+	backround-color: #ccc:
+}
+header{
+		width: 25%;
+		float: left;
+		border: solid 1px red;
+}
+nav{
+	width: 70%;
+	float: right;
+	margin: 5em 3em 0 0;
+	border: solid 1px blue;
+}
+main{
+	clear: left;
+	border: solid 1px green;
+	backround-color: #fff;
+	padding: 2%;
+	font-size: 1.25em;
+}
+
+nav ul{
+	list-styletype: none;
+	margin: 0;
+	text-align: right;
+	border: solid 1px yellow;
+	
+}
+li{
+	display: incline
+	border: solid 1px pink;
+}	
+img{
+	max-width: 100%;
+	display: block;
+}
+
+footer p{
+	font-size: .75em;
+	text-align: center;
+	color: #fff;
+	padding: 0 1em;
+}
+footer P a{
+	color: fff#;
+	text-decoration: none;
+}
+
+#weights, #cardio, #training{ /*id names*/
+	width: 29%;
+	float: left;
+	margin: 0 2%;
+}
+#exercises{
+	clear: left;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	background-color: #f2f2f2;
+	padding: 1% 2%;
+}
+
+#exercises dt{
+	font-weight: bold;
+}
+#exercises DD{
+	padding: .5% 1% 2% 0;
+	
+}
+
+#contact{
+	text-align: center;
+	
+}
+#contact a{ 
+	color: #660;	/*#666600*/
+	text-decoration: none;
+}
+.action{
+	font-size: 1.35em;
+	color: #660;
+	font-weight: bold;
+}
+
+.external-link{
+	color: #660;
+}
+.map{
+	border: 8px solid #000;
+}
